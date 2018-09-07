@@ -1,6 +1,6 @@
 #!/bin/bash
 
-export HEROKU_APP_NAME=sticker-generator
+export HEROKU_APP_NAME=media-generator
 
 heroku container:push web --app $HEROKU_APP_NAME
 heroku container:release web --app $HEROKU_APP_NAME
