@@ -2,12 +2,11 @@
 Service for generation of png banners (and some other media in the future) for social media.
 
 INFO:
-* https://dashboard.heroku.com/apps/sticker-generator/settings
-* http://sticker-generator.herokuapp.com/?img_path=/genimages/ada8fcab92bf1d32b31979baa25895a4f8924b9f.png
+* https://dashboard.heroku.com/apps/media-generator/settings
+* http://media-generator.herokuapp.com
 
 TODO:
 
-* togithub
 * Philip TODO: https://paper.dropbox.com/doc/OMANKO-Content-Image-Generator--AMEilWEgMRldCB0Q5ucz41aXAg-XDee1KXkOeKmbWfQxOhkY
 * preview
 * custom background: http://flask.pocoo.org/docs/1.0/quickstart/#file-uploads
@@ -18,6 +17,7 @@ TODO:
 
 DONE:
 
+* to github
 * Russian symbols to css
 * Customize template
 * show result
